@@ -1,2 +1,2 @@
 # img
-图床
+obsidian图床
